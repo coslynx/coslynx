@@ -12,8 +12,6 @@
 
 ・ Efficiency: Reduces development time.
 
-・ Interconnected Logic: Ensures seamless integration.
-
 ・ Error Handling: Robust mechanisms enhance reliability.
 
 ## Development Status:

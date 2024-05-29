@@ -6,7 +6,7 @@
 ・Code Generation: High-quality, bug-free code based on user input.
 
 ## Why Choose SPECTRA?
-・ Production-Ready: Projects are structured for real-world use.
+・ Ready To Use: Projects are structured for real-world use.
 
 ・ Consistency: Adheres to a consistent coding style.
 

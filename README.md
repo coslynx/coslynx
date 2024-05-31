@@ -1,5 +1,5 @@
 # What is Spectra?
-*Spectra is an AI Code generator which revolutionizes code generation by creating structured, ready to use code. It ensures high-quality, efficient, and organized code structures, similar to professional GitHub repositories.*
+*Spectra is an AI Code generator which revolutionizes code generation by creating structured, ready to use code. It ensures high-quality, efficient, and organized code structures, similar to professional Github repositories.*
 
 ### Key Features:
 ・Folder Generation: Constructs a scalable and maintainable structure.

@@ -62,10 +62,5 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drix_10_/)
 
 
-## 🖥️ Status
-
-![Discord](https://discord.c99.nl/widget/theme-3/954367061222633472.png)
-
-
 ## 🔧 Development Status
 **[Spectra](https://spectra.codes)** is under active development by [@Drix10](https://github.com/Drix10) and is currently closed source, pay according to usage plan.

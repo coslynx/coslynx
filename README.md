@@ -2,7 +2,7 @@
   <img src="https://github.com/spectra-ai-codegen/spectra-ai-codegen/blob/main/images/spectra-logo.png?raw=true" width="100" height="auto" />
 </p>
 <p align="left">
-    <h1 align="left">Spectra.Codes</h1>
+    <h1 align="left">🌐 Spectra.Codes</h1>
 </p>
 <p align="left">
     <em>Why only generate Code? When you can generate the whole Repository!</em>

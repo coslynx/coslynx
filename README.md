@@ -43,25 +43,20 @@
 
 ## 📈 Stats
 <div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=spectra-ai-codegen&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
-<br />
-<br />
-</div>
-<p align="left">
-    <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=spectra-ai-codegen&theme=tokyonight"/>
-    </a>
+    <p align="left">
+<img height="40em" src="https://komarev.com/ghpvc/?username=spectra-ai-codegen&color=brightgreen" alt="watching_count">
 </p>
+</div>
 <p align="left"> 
 <a href="https://github.com/drix10">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spectra-ai-codegen&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 <p align="left">
-<img height="40em" src="https://komarev.com/ghpvc/?username=spectra-ai-codegen&color=brightgreen" alt="watching_count">
+    <a href="https://git.io/streak-stats">
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=spectra-ai-codegen&theme=tokyonight"/>
+    </a>
 </p>
-
 
 ## 🔗 Contact
 

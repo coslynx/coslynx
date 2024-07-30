@@ -22,8 +22,11 @@
 
 
 # 📋 Description
-**Spectra** is an AI Code generator that revolutionizes code generation by creating structured, ready-to-use code. It ensures high-quality, efficient, and organized code structures, similar to professional GitHub repositories.
+**Spectra** is a platform that generates GitHub repositories based on provided project details. The platform first determines the project's features, then selects the appropriate tech stack, designs the codebase structure, and finally generates the corresponding code. This comprehensive process culminates in the automatic creation of a  functional GitHub repository.
 
+### What problem I am trying to solve?
+
+I'm addressing the challenge of interconnected code generation using natural language. Previously, natural language models were primarily used to generate isolated code snippets or functions. My goal is to create comprehensive project structures through natural language inputs, enabling users to develop more advanced projects efficiently. This approach significantly reduces development time by providing a robust foundation that users can build upon seamlessly.
 
 ## 📑 Key Features:
 - 📁 **Folder Generation**: Constructs a scalable and maintainable structure.

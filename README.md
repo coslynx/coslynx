@@ -1,22 +1,22 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/spectra-ai-codegen/spectra-ai-codegen/blob/main/images/spectra-logo.png?raw=true" width="100" height="auto" />
 </p>
-<p align="center">
-    <h1 align="center">Spectra.Codes</h1>
+<p align="left">
+    <h1 align="left">Spectra.Codes</h1>
 </p>
-<p align="center">
+<p align="left">
     <em>Why only generate Code? When you can generate the whole Repository!</em>
 </p>
-<p align="center">
+<p align="left">
 	<img src="https://img.shields.io/badge/Developer-Drix10-red" alt="">
 	<img src="https://img.shields.io/badge/Website-Spectra.codes-blue" alt="">
 	<img src="https://img.shields.io/badge/Backed_by-Google_&_Microsoft_for_Startups-red" alt="">
 	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4-black" alt="">
 <p>
-<p align="center">
+<p align="left">
 		<em>Developed with the software and tools below:</em>
 </p>
-<p align="center">
+<p align="left">
 	<img src="https://img.shields.io/badge/Framework-React-blue" alt="">
 	<img src="https://img.shields.io/badge/Frontend-Javascript,_Html,_Css-red" alt="">
 	<img src="https://img.shields.io/badge/Backend-Node.js-blue" alt="">

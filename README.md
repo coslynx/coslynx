@@ -22,7 +22,10 @@
 
 
 # 📋 Description
-**Spectra** is a platform that generates GitHub repositories based on provided project details. The platform first determines the project's features, then selects the appropriate tech stack, designs the codebase structure, and finally generates the corresponding code. This comprehensive process culminates in the automatic creation of a  functional GitHub repository.
+
+### What is Spectra.codes?
+
+**Spectra** is an AI code generator that generates GitHub repositories based on provided project details. The AI first determines the project's features, then selects the appropriate tech stack, designs the codebase structure, and finally generates the corresponding code. This comprehensive process culminates in the automatic creation of a functional GitHub repository.
 
 ### What problem I am trying to solve?
 

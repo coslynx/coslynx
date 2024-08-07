@@ -7,7 +7,7 @@
 <p align="left">
 	<img src="https://img.shields.io/badge/Developer-Drix10-red" alt="">
 	<img src="https://img.shields.io/badge/Website-Spectra.codes-blue" alt="">
-	<img src="https://img.shields.io/badge/Backed_by-Google_&_Microsoft_for_Startups-red" alt="">
+	<img src="https://img.shields.io/badge/Backed_by-Google,_Microsoft_&_Amazon_for_Startups-red" alt="">
 	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4-black" alt="">
 <p>
 <p align="left">

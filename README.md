@@ -1,12 +1,12 @@
 <p align="left">
-    <h1 align="left">🌐 Spectra.Codes</h1>
+    <h1 align="left">🌐 CosLynx.com</h1>
 </p>
 <p align="left">
-    <em>Why only generate Code? When you can generate the whole Repository!</em>
+    <em>Create Your Custom MVP in Minutes With @CoslynxAI</em>
 </p>
 <p align="left">
-	<img src="https://img.shields.io/badge/Developer-Drix10-red" alt="">
-	<img src="https://img.shields.io/badge/Website-Spectra.codes-blue" alt="">
+	<img src="https://img.shields.io/badge/Developer-Drix10,_Kais_Radwan-red" alt="">
+	<img src="https://img.shields.io/badge/Website-CosLynx.com-blue" alt="">
 	<img src="https://img.shields.io/badge/Backed_by-Google,_Microsoft_&_Amazon_for_Startups-red" alt="">
 	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4-black" alt="">
 <p>
@@ -14,59 +14,58 @@
 		<em>Developed with the software and tools below:</em>
 </p>
 <p align="left">
-	<img src="https://img.shields.io/badge/Framework-React-blue" alt="">
+	<img src="https://img.shields.io/badge/Framework-Next.js-blue" alt="">
 	<img src="https://img.shields.io/badge/Frontend-Javascript,_Html,_Css-red" alt="">
-	<img src="https://img.shields.io/badge/Backend-Node.js-blue" alt="">
-	<img src="https://img.shields.io/badge/LLMs-Custom,_Gemini,_OpenAI-black" alt="">
+	<img src="https://img.shields.io/badge/Backend-Fastify,_Node.js_with_SQL,_MongoDB-blue" alt="">
+	<img src="https://img.shields.io/badge/LLMs-Custom,_Gemini,_OpenAI,_Claude-black" alt="">
 </p>
-
 
 # 📋 Description
 
-### What is Spectra.codes?
+### What is CosLynx.com?
 
-**Spectra** is an AI code generator that generates GitHub repositories based on provided project details. The AI first determines the project's features, then selects the appropriate tech stack, designs the codebase structure, and finally generates the corresponding code. This comprehensive process culminates in the automatic creation of a functional GitHub repository.
+**CosLynx** is an AI-powered MVP generator that creates custom Minimum Viable Products (MVPs) based on provided project details. The AI first determines the project's features, then selects the appropriate tech stack, designs the codebase structure, generates the corresponding code, builds it, tests it, and finally pushes it to GitHub. This comprehensive process culminates in the automatic creation of a functional, tested MVP ready for deployment.
 
-### What problem I am trying to solve?
+### What problem are we trying to solve?
 
-I'm addressing the challenge of interconnected code generation using natural language. Previously, natural language models were primarily used to generate isolated code snippets or functions. My goal is to create comprehensive project structures through natural language inputs, enabling users to develop more advanced projects efficiently. This approach significantly reduces development time by providing a robust foundation that users can build upon seamlessly.
+We're addressing the challenge of rapidly developing and deploying MVPs using natural language inputs. Our goal is to streamline the entire MVP creation process, from concept to deployment, enabling users to bring their ideas to life efficiently. This approach significantly reduces development time by providing a robust, tested foundation that users can build upon seamlessly.
 
 ## 📑 Key Features:
-- 📁 **Folder Generation**: Constructs a scalable and maintainable structure.
-- 📄 **File Generation**: Creates all necessary files, ensuring interconnections.
+- 🎨 **Custom MVP Design**: Tailors the MVP to your specific requirements.
+- 📁 **Project Structure**: Constructs a scalable and maintainable architecture.
 - 💻 **Code Generation**: Produces high-quality, bug-free code based on user input.
+- 🧪 **Automated Testing**: Ensures reliability and functionality of the generated MVP.
+- 🚀 **GitHub Integration**: Automatically pushes the completed MVP to GitHub.
 
-
-## 🏗️ Why Choose Spectra?
-- 🚀 **Ready To Use**: Projects are structured for real-world use.
-- 📏 **Consistency**: Adheres to a consistent coding style.
-- ⏱️ **Efficiency**: Reduces development time.
-- 🛡️ **Error Handling**: Robust mechanisms enhance reliability.
-
+## 🏗️ Why Choose CosLynx?
+- 🚀 **Ready To Deploy**: MVPs are structured and tested for real-world use.
+- 📏 **Consistency**: Adheres to best practices and coding standards.
+- ⏱️ **Efficiency**: Dramatically reduces MVP development time.
+- 🛡️ **Quality Assurance**: Robust testing mechanisms enhance reliability.
+- 🔄 **Iterative Development**: Easy to update and refine your MVP as needed.
 
 ## 📈 Stats
 <div align="left">
     <p align="left">
-<img height="40em" src="https://komarev.com/ghpvc/?username=spectra-ai-codegen&color=brightgreen" alt="watching_count">
+<img height="40em" src="https://komarev.com/ghpvc/?username=coslynx&color=brightgreen" alt="watching_count">
 </p>
 </div>
 <p align="left"> 
-<a href="https://github.com/drix10">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spectra-ai-codegen&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/coslynx">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coslynx&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="left">
     <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=spectra-ai-codegen&theme=tokyonight"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=coslynx&theme=tokyonight"/>
     </a>
 </p>
 
 ## 🔗 Contact
 
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/954367061222633472)
-[![gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:support@spectra.codes)
+[![gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:support@coslynx.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drix_10_/)
 
-
 ## 🔧 Development Status
-**[Spectra](https://spectra.codes)** is under active development by [@Drix10](https://github.com/Drix10) and is currently closed source, pay according to usage plan.
+**[CosLynx](https://coslynx.com)** is under active development by [@Drix10](https://github.com/Drix10) and [@kais-radwan](https://github.com/kais-radwan) and is currently closed source, with usage based on subscription plans.

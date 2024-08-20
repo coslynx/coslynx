@@ -1,19 +1,20 @@
-<p align="left">
-    <h1 align="left">🌐 CosLynx.com</h1>
+<p align="center">
+    <img src="https://github.com/coslynx/coslynx/blob/main/images/CosLynxAI.png?raw=true" width="100" />
+    <h1 align="center">🌐 CosLynx.com</h1>
 </p>
-<p align="left">
+<p align="center">
     <em>Create Your Custom MVP in Minutes With @CoslynxAI</em>
 </p>
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/Developer-Drix10,_Kais_Radwan-red" alt="">
 	<img src="https://img.shields.io/badge/Website-CosLynx.com-blue" alt="">
 	<img src="https://img.shields.io/badge/Backed_by-Google,_Microsoft_&_Amazon_for_Startups-red" alt="">
 	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4-black" alt="">
 <p>
-<p align="left">
+<p align="center">
 		<em>Developed with the software and tools below:</em>
 </p>
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/Framework-Next.js-blue" alt="">
 	<img src="https://img.shields.io/badge/Frontend-Javascript,_Html,_Css-red" alt="">
 	<img src="https://img.shields.io/badge/Backend-Fastify,_Node.js_with_SQL,_MongoDB-blue" alt="">

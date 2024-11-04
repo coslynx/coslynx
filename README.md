@@ -69,4 +69,4 @@ We're addressing the challenge of rapidly developing and deploying MVPs using na
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drix_10_/)
 
 ## 🔧 Development Status
-**[CosLynx](https://coslynx.com)** is under active development by [@Drix10](https://github.com/Drix10) and [@kais-radwan](https://github.com/kais-radwan) and is currently closed source, with usage based on subscription plans.
+**[CosLynx](https://coslynx.com)** is under development by [@Drix10](https://github.com/Drix10) and [@kais-radwan](https://github.com/kais-radwan) and is currently in closed beta.

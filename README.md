@@ -9,14 +9,14 @@
 	<img src="https://img.shields.io/badge/Developer-Drix10,_Kais_Radwan-red" alt="">
 	<img src="https://img.shields.io/badge/Website-CosLynx.com-blue" alt="">
 	<img src="https://img.shields.io/badge/Backed_by-Google,_Microsoft_&_Amazon_for_Startups-red" alt="">
-	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4-black" alt="">
+	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4,_v6-black" alt="">
 <p>
 <p align="center">
 		<em>Developed with the software and tools below:</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Framework-Next.js-blue" alt="">
-	<img src="https://img.shields.io/badge/Frontend-Javascript,_Html,_Css-red" alt="">
+	<img src="https://img.shields.io/badge/Frontend-Typescript,_Html,_Css-red" alt="">
 	<img src="https://img.shields.io/badge/Backend-Fastify,_Node.js_with_SQL,_MongoDB-blue" alt="">
 	<img src="https://img.shields.io/badge/LLMs-Custom,_Gemini,_OpenAI,_Claude-black" alt="">
 </p>
